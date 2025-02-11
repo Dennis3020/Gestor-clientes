@@ -1,4 +1,4 @@
-#Gestor de Clientes
+**#Gestor de Clientes
 
 Gestor de Clientes es una aplicación de escritorio desarrollada en Python utilizando Tkinter. Permite gestionar clientes mediante las siguientes opciones:
 
@@ -33,4 +33,4 @@ Ejecuta el programa.
 
 Usa la interfaz para agregar, modificar o eliminar clientes.
 
-Los cambios se guardan de manera local en un archivo o base de datos (según implementación).
+Los cambios se guardan de manera local en un archivo o base de datos (según implementación).**
